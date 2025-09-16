@@ -37,9 +37,10 @@ Atualmente estou mergulhando no mundo do **JavaScript** para dominar o desenvolv
 
 *"A melhor forma de prever o futuro é criá-lo através do código"*
 
-📧 **Contato:** abrahaoicbraga.w@gmail.com  
+📧 **Contato:** 
+
 🔗 **LinkedIn:** [linkedin.com/in/abrahao-braga](https://www.linkedin.com/in/abrahao-braga)  
-📍 **Localização:** Estrela do Sul, Minas Gerais, Brasil
+
 
 
 <!--
